@@ -1,0 +1,600 @@
+_ Machine Learning
+Please Wait Pr wy ect
+
+Introductior
+Breast Cancer Detection Using
+Machine Learning
+
+LE
+
+
+— Machine Learning
+—ioO. Project
+rrr
+Intr luction
+Breast Cancer Detection Using
+
+ee
+
+
+
+BREAST CANCER
+<S PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS 7)
+a
+UNDER SUPERVISION: v
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+<B PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS Xo
+
+UNDER SUPERVISION:
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+OG PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS Xe
+
+we
+
+UNDER SUPERVISION:
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS ke
+
+UNDER SUPERVISION:
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+BG PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS Xo
+
+UNDER SUPERVISION:
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS ke
+
+UNDER SUPERVISION: Kx
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS Xe
+
+UNDER SUPERVISION: Kx
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+<B PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS ro
+
+SS
+
+4
+
+UNDER SUPERVISION:
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+BREAST CANCER
+<B PREDICTION
+
+USING MACHINE LEARNING ALGORITHMS ko
+
+SS
+
+4
+
+UNDER SUPERVISION:
+
+Ms. DEEPTHI SEHRAWAT
+Assistant professor
+
+Computer Science And Engineering
+AMITY UNIVERSITY HARYANA
+
+CREATED BY:- PALAK ARORA
+
+
+
+Established in Pune in 1952 as IAT
+
+s ign °. eee F
+
+4 \ ~
+gle My ae a |)
+iF sul iin: » |
+j Established in Pune in 1952 as IAT
+i — i- es
+
+‘ =
+
+Established in Pune in 1952 as IAT
+
+
+A Deemed University on 1st April 2006
+
+
+
+OURCE &4DEVEORVIENTS
+OVERNMENOPAINDIA
+
+a Minis i8y OF HUMAN
+é ote. DE VELOPNIENTS
+— SOUTEROMENT OF INDIA
+
+ory ‘A’ Universit
+6 |
+
+ws
+
+GOVERNIMIENT OF INDIAN
+¥ me
+
+
+2013) Declared as
+
+INS Ce DEW EMOPMIENIL,
+RNIMENT OF IND
+
+
+
+To be a Center of Excellence of
+international repute for Education,
+Training and Research in
+Advanced Technologies with a view
+to strengthen national security
+
+andselta liances [2
+
+
+To be a Center of Excellence of
+international repute for Education,
+
+Training and Research in
+Advanced Technologies with a view
+to strengthen national security —
+and se! f-reliance.
+
+
+To be a Center of Ao *
+international repute for Education,
+Training and Research in
+® Advanced Technologies with a view
+
+to strengthen one I security
+
+
+To be a Genter of Excellence of
+5 international repute for Education,
+ny Training and Research in
+i Advanced Technologies with a view
+
++ to strengthen national security
+
+and self-reliance.
+
+
+To be a Center of Excellence of
+international repute for Education,
+
+f 7 Training and Research in
+Advanced Technologies with a view
+
+H .
+{
+P to strengthen national security
+
+
+To be aCenter of Excellenceof
+international repute for Education
+Training and Research in.
+
+
+To be a Center of Excellence of
+international repute for Education,
+
++ Training and Research in
+Advanced Technologies with a view
+to strengthen national security
+and se| f e.
+
+
+
+Jo evolve as an Innovative Unique
+esearch University:to develop indigenous
+
+contemporary Defence. =
+
+in Navigas
+
+
+To evolve as an Innovative Unique
+search University to develop indigenous
+temporary Defence related technologies
+in Navigation Systems, Wireless Sensors,
+Efficient Propulsion Systems,
+Weapon Systems.
+
+Services, |
+
+To evolve as an Innovative Unique
+
+Research University to develop altri
+
+Contemporary Defence related reenoleae
+in Navigation Systems, Wireless Sensors,
+- Efficient Propulsion Systems,
+Weapon Systems for DRDO & Defence
+1 -al solutions
+
+bat battleieta
+
+effectiveness amd al) (siete ne
+
+Efficient Propulsion systems,
+Weapon Systems for DRDO & Defence
+
+Services, provide technological solutions
+to the Services to optimise combat battlefield
+Dicifectiveness and above all produce qualified
+
+ce
+
+technology bts: set
+
+Services, provide technological solutions
+
+tlie Services to optimise combat battlefield
+
+fectiveness and above all produce qualified
+"quality manpower which can truly become an
+instrument for building a strong indigenous
+technology base in the context of
+
+creating gibertorning
+Defence Industrial Base in India é
+
+
+Guality manpower which canjtruly become an
+instrument for building a strong indigenous
+technology base in the context of
+
+creating a performing
+
+Defence Industrial Base in India
+
+
+pe saling a perlorming
+Defence Industrial Base in India
+
+
+
+To grow with glory
+and
+achieve success
+
+with significance a
+.
+~~ s
+
+To grow with glory
+and
+achieve success
+with significance
+
+
+
+Khadakwasla
+
+
+
+i) 1 LEU
+HLA
+iT
+
+*
+
+Wifi Enabled campus
+
+
+wiainundias he
+
+
+Well-rained and high
+
+a
+
+
+
+Well-trained and highly qualified academic faculty & staff
+
+
+ice Chancellor
+
+
+a
+
+ENDRA. PAL
+Vice Chancello sea Vice, Chancellor. - pe
+
+
+
+NOW, QUESTIONS 5 QUESTIONS 5
+
+WHOIS GOING TO
+ASK 0 QUESTIONS?
+
+2d FOLLOWS COME! YES
+GET UP! COME COME,
+
+2 FOLLOWS COME! YES
+GET UP! COME COME,
+
+WHAT IS THE QUESTION?
+START STARTIT!
+
+CAREER (fa
+
+EXCEL a)
+
+GOOD EVENING SIR!
+
+GOOD EVENING!
+WHICH CLASS YOUR
+STUDYING?
+
+1 AM STUDYING IN 10TH STANDERD!
+MY NAME IS GAYATRI MOHIND,
+
+i @'
+
+IOTH STANDARD?
+YES SIR!
+
+?
+bm, @
+
+A
+
+> | |
+<<
+<
+
+A ry
+
+NEXT YEAR, WHAT SUBJECT
+YOU WELL TAKE ?
+
+
+7 | =
+4 BPN an" s :
+y — NI :
+
+GA. &
+I WISH TO TAKE BIOMAX!
+
+WHY BIO?
+
+CAREER Aiea
+“Al Fi Ya ;
+
+I WISH TO TAKE BIOMAX!
+WHY BIO?
+
+a ee ol
+' 4 +>
+
+I AMINTRASTED IN BIOLOGY!
+BIOLOGY, ARE YOU WANT TO
+
+7 ‘5
+il
+\
+7 we
+
+IT AMINTRASTED IN BIOLOGY!
+BIOLOGY, ARE YOU WANT TO
+
+TO BACOME A DOCTOR?
+
+— es
+
+MY AMBITION IS TO BECOME,
+IWANT TO STUDY MORE ON
+
+MY AMBITION IS TO BECOME,
+IWANT TO STUDY MORE ON
+
+. aa
+7 a
+; “
+
+AEROSPACE ENGINEERING!
+YOUR BECOME A LIFE SCIENTIS
+RIGHT? YES! VERY GOOD GIRL!
+
+AEROSPACE ENGINEERING!
+YOUR BECOME A LIFE SCIENTIS
+RIGHT? YES! VERY GOOD GIRL!
+
+VERY GOOD GIRL!
+OK, THANKU SIR!
+
+7
+
+‘we
+
+«
+( r
+
+VERY GOOD GIRL!
+OK, THANKU SIR!
+
+
+——_s
+
+' 7 leet \w?
+
+aie tame \z
+voy, ; = #ifoee
+
+VERY GOOD GIRL!
+OK, THANKU SIR!
+
+VERY GOOD GIRL!
+OK, THANKU SIR!
+
+SIR! MY QUESTION
+TO YOUIS,
+
+a journey from Rameshwaram
+to Rashtrapati Bhavan,
+
+is is indeed a great achievement!
+which no one ean think of,
+
+you are giving a lecture now!
+what a question?
+
+CAREER “im
+
+you are giving a lecture now!
+what a question?
+
+S.<
+
+sir I could like to
+hear from you,
+
+
+me
+
+a few tips for the
+upcoming generation
+to succeed in life?
+
+
+a | =
+| ‘gi
+
+a few tips for the
+upcoming generation
+to succeed in life?
+
+
+an \
+. j * y
+
+a few tips for the
+upcoming generation
+to succeed in life?
+
+well succeed in life,
+[have already told you!
+
+you have todo
+for things! ok,
+
+number | Repeat with me number |
+you repeat great aim, great aim
+
+he
+
+number | Repeat with me number |
+you repeat great aim, great aim
+
+a
+
+i will have great aim!
+i will have great aim,
+
+
+—
+: =
+|
+
+i will have great aim!
+i will have great aim,
+
+CAREER
+
+I will, I will, continuously acquire knowledgel
+continuously acquire knowledge,
+
